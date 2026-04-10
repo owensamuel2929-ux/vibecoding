@@ -1,0 +1,5 @@
+node_modules/
+server/db.json
+server/finance.db
+dist/
+.env

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir C:\\\\Users\\\\sosut\\\\Documents\\\\Vibe Code\\\\Project 1:*)",
+      "Bash(npm create:*)",
+      "Bash(npx create-vite@latest client --template react)",
+      "Bash(npm install:*)",
+      "Bash(timeout 5 node index.js)"
+    ]
+  }
+}
